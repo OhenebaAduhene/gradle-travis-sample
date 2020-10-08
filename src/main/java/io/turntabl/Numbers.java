@@ -9,6 +9,9 @@ public class Numbers {
         return i > 0;
     }
 
+
+
+
     private static boolean lessThanAThousand(int i){
         return i < 1000;
     }
